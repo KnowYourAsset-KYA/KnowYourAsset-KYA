@@ -33,7 +33,7 @@ Application and implementation of Token Fundamentals to ensure verification of a
 ### Token Classification
 
 | Property | Description |
-|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|----------------------------|---------------------------------------------------------------------------------------------------------------------|
 | Economic Purpose | ITSA standard economic code which represents categories (Payment Token / Utility Token / Investment Token) + Subcategories (Equity / Security / Debt) |
 | Technology Base | ITSA standard technology code: DL-native Token / Non-Native Token |
 | Legal Claim | ITSA standard legal code: No Claim / Relative Rights / Absolute Rights |
@@ -45,7 +45,7 @@ Application and implementation of Token Fundamentals to ensure verification of a
 ### Project Data
 
 | Property | Description |
-|----------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+|----------------------------|---------------------------------------------------------------------------------------------------------------------|
 | Name |  |
 | Geo of Project Origination | Refer to ISO 3166 |
 | Intro | One-Sentence |
@@ -64,13 +64,13 @@ Application and implementation of Token Fundamentals to ensure verification of a
 ### Communications
 
 | Property | Description |
-|------------------------|-------------------------------------------------------------------|
+|----------------------------|---------------------------------------------------------------------------------------------------------------------|
 | Communication Platform | Communication channels related to the token. (For example, email) |
 
 ### Team
 
 | Property | Description |
-|-----------------------|------------------------------------------------------------|
+|----------------------------|---------------------------------------------------------------------------------------------------------------------|
 | Per Team Member | Focused on governance bodies (board, executives, advisors) |
 | First Name |  |
 | Last Name |  |
@@ -83,7 +83,7 @@ Application and implementation of Token Fundamentals to ensure verification of a
 #### Per Token Allocation
 
 | Property | Description |
-|------------------|---|
+|----------------------------|---------------------------------------------------------------------------------------------------------------------|
 | Name |  |
 | Start Date |  |
 | End Date |  |
@@ -93,7 +93,7 @@ Application and implementation of Token Fundamentals to ensure verification of a
 #### Per Token Sale
 
 | Property | Description |
-|------------------------------|-----------------------------------------------------------|
+|----------------------------|---------------------------------------------------------------------------------------------------------------------|
 | Token Sale Contract |  |
 | Start Date |  |
 | End Date |  |
@@ -113,7 +113,7 @@ Application and implementation of Token Fundamentals to ensure verification of a
 ### Governance
 
 | Property | Description |
-|-----------------------|---------------------------------------------------|
+|----------------------------|---------------------------------------------------------------------------------------------------------------------|
 | Governance Contract | Pointer to the governance contract for this token |
 | Quorum |  |
 | Majority to pass vote |  |
@@ -123,7 +123,7 @@ Application and implementation of Token Fundamentals to ensure verification of a
 ### Regulatory
 
 | Property | Description |
-|-----------------------------------|-------------------------------------------------------------------------------------|
+|----------------------------|---------------------------------------------------------------------------------------------------------------------|
 | Securities Exemptions | For example, Reg A+, Reg D 506c, Reg S |
 | Permitted or Restricted Countries | "For example, Reg. S U.S. restricts investors from trading for |
 | one year post STO." |  |
@@ -135,12 +135,12 @@ Application and implementation of Token Fundamentals to ensure verification of a
 #### Per Entity
 
 | Property | Description |
-|-----------------------|----------------------------------------|
+|----------------------------|---------------------------------------------------------------------------------------------------------------------|
 | Name |  |
 | Legal Name |  |
 | Description |  |
 | Image |  |
-| Location[] |  |
+| Location |  |
 | Coordinates[Long,Lat] |  |
 | Country |  |
 | Region / State |  |
@@ -154,7 +154,7 @@ Application and implementation of Token Fundamentals to ensure verification of a
 ### Reporting
 
 | Property | Description |
-|--------------------|----------------------|
+|----------------------------|---------------------------------------------------------------------------------------------------------------------|
 | Financials |  |
 | Financial Forecast | incl. Usage of Funds |
 | Valuation / NAV |  |
