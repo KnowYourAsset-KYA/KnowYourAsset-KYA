@@ -12,7 +12,7 @@ Application and implementation of Token Fundamentals to ensure verification of a
 
 ## Token Metadata
 
-| Token Contract |  |
+| Token Contract Property | Description |
 |----------------------------|---------------------------------------------------------------------------------------------------------------------|
 | Blockchain | The native blockchain in which the originator contract resides |
 | Token Contract Address | Address of the original token contract |
@@ -28,7 +28,7 @@ Application and implementation of Token Fundamentals to ensure verification of a
 | Circulating Supply |  |
 | Token Features Description |  |
 
-| Token Classification |  |
+| Token Classification Property | Description |
 |----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Economic Purpose | ITSA standard economic code which represents categories (Payment Token / Utility Token / Investment Token) + Subcategories (Equity / Security / Debt) |
 | Technology Base | ITSA standard technology code: DL-native Token / Non-Native Token |
@@ -40,7 +40,7 @@ Application and implementation of Token Fundamentals to ensure verification of a
 
 ## Project Data
 
-| Project Data |  |
+| Project Data Property | Description |
 |----------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
 | Name |  |
 | Geo of Project Origination | Refer to ISO 3166 |
@@ -59,6 +59,6 @@ Application and implementation of Token Fundamentals to ensure verification of a
 
 ## Communications
 
-| Communications |  |
+| Communications Property | Description |
 |------------------------|-------------------------------------------------------------------|
 | Communication Platform | Communication channels related to the token. (For example, email) |
