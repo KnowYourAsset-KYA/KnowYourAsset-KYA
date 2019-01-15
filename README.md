@@ -12,7 +12,9 @@ Application and implementation of Token Fundamentals to ensure verification of a
 
 ## Token Metadata
 
-| Token Contract Property | Description |
+### Token Contract
+
+| Property | Description |
 |----------------------------|---------------------------------------------------------------------------------------------------------------------|
 | Blockchain | The native blockchain in which the originator contract resides |
 | Token Contract Address | Address of the original token contract |
@@ -28,7 +30,9 @@ Application and implementation of Token Fundamentals to ensure verification of a
 | Circulating Supply |  |
 | Token Features Description |  |
 
-| Token Classification Property | Description |
+### Token Classification
+
+| Property | Description |
 |----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Economic Purpose | ITSA standard economic code which represents categories (Payment Token / Utility Token / Investment Token) + Subcategories (Equity / Security / Debt) |
 | Technology Base | ITSA standard technology code: DL-native Token / Non-Native Token |
@@ -38,9 +42,9 @@ Application and implementation of Token Fundamentals to ensure verification of a
 | Token Mining | For example, Not-mineable, Mineable |
 | Tech Functionality | The functionality that the underlying blockchain or distributed ledger provides. (For example, smart contracts) |
 
-## Project Data
+### Project Data
 
-| Project Data Property | Description |
+| Property | Description |
 |----------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
 | Name |  |
 | Geo of Project Origination | Refer to ISO 3166 |
@@ -57,8 +61,19 @@ Application and implementation of Token Fundamentals to ensure verification of a
 | Affiliations | Any participations in industry organizations e.g. ORCA, AIMA, DCTA |
 | Attachments | Relevant documents to made public: PitchDeck, Security Audits, Financial Audits, Bank Statements, Certificates, Licenses, Work Contracts |
 
-## Communications
+### Communications
 
-| Communications Property | Description |
+| Property | Description |
 |------------------------|-------------------------------------------------------------------|
 | Communication Platform | Communication channels related to the token. (For example, email) |
+
+### Team
+
+| Property | Description |
+|-----------------------|------------------------------------------------------------|
+| Per Team Member | Focused on governance bodies (board, executives, advisors) |
+| First Name |  |
+| Last Name |  |
+| Picture | URL of the location of the file |
+| Role / Responsibility |  |
+| Online Presence | Social and/or communication channels |
