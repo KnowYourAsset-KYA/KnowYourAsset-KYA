@@ -14,9 +14,9 @@ Application and implementation of Token Fundamentals to ensure verification of a
 
 ### Token Contract
 
-
-| Blockchain                 | The native blockchain in which the originator contract resides                                                      |
+| Token Contract             |                                                                                                                     |
 |----------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Blockchain                 | The native blockchain in which the originator contract resides                                                      |
 | Token Contract Address     | Address of the original token contract                                                                              |
 | Public Token Name          | Common name for the token                                                                                           |
 | Token Ticker               | Ticker code as defined in the token contract                                                                        |
