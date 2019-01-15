@@ -162,5 +162,4 @@ Application and implementation of Token Fundamentals to ensure verification of a
 
 ## References
 
-|------|------------------------------------------------------------------------|
-| ITSA | [Link](https://drive.google.com/file/d/1H-driPAlyS6sb2OfgMRJJxJOFiMo_vcq/view) |
+* [ITSA](https://drive.google.com/file/d/1H-driPAlyS6sb2OfgMRJJxJOFiMo_vcq/view) |
