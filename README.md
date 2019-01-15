@@ -109,3 +109,24 @@ Application and implementation of Token Fundamentals to ensure verification of a
 | Unsold Tokens |  |
 | Destination of Unsold Tokens | e.g. Added to Reserve, Burned |
 | Restrictions | e.g. Minium transaction size; 99 investors max from U.S. |
+
+### Governance
+
+| Property | Description |
+|-----------------------|---------------------------------------------------|
+| Governance Contract | Pointer to the governance contract for this token |
+| Quorum |  |
+| Majority to pass vote |  |
+| Time for debate |  |
+| Ballot history | URL to past decisions or voting app |
+
+### Legal
+
+| Property | Description |
+|-------------------------|----------------------------------------------------------------------------------------------------|
+| Prospectus | URL of the content or content hash |
+| Jurisdiction of Project | Country code |
+| Terms of Token Use | URL of the content or content hash |
+| Custodial Provider | Bridge traditional share certificates with smart contracts |
+| Fiat Provider | Must be willing to accept crypto-linked deposits, must have audit trail on all crypto transactions |
+| Escrow | An escrow provider will hold raised funds until a certain milestone is reached |
