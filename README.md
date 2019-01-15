@@ -37,3 +37,22 @@ Application and implementation of Token Fundamentals to ensure verification of a
 | Consensus | For example, PoW, PoS, PoA, PoET, DPoS |
 | Token Mining | For example, Not-mineable, Mineable |
 | Tech Functionality | The functionality that the underlying blockchain or distributed ledger provides. (For example, smart contracts) |
+
+## Project Data
+
+| Project Data |  |
+|----------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| Name |  |
+| Geo of Project Origination | Refer to ISO 3166 |
+| Intro | One-Sentence |
+| Project Description |  |
+| Product Description |  |
+| Website | Official website |
+| Explorer | URL linking to the token explorer |
+| Code Repo | URL linking to the project repo |
+| Technical Documentation |  |
+| Whitepaper |  |
+| Logo | URL pointing to a public location of the official project logo |
+| Other project creatives | URL to a public repository containing project creatives |
+| Affiliations | Any participations in industry organizations e.g. ORCA, AIMA, DCTA |
+| Attachments | Relevant documents to made public: PitchDeck, Security Audits, Financial Audits, Bank Statements, Certificates, Licenses, Work Contracts |
