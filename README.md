@@ -56,3 +56,9 @@ Application and implementation of Token Fundamentals to ensure verification of a
 | Other project creatives | URL to a public repository containing project creatives |
 | Affiliations | Any participations in industry organizations e.g. ORCA, AIMA, DCTA |
 | Attachments | Relevant documents to made public: PitchDeck, Security Audits, Financial Audits, Bank Statements, Certificates, Licenses, Work Contracts |
+
+## Communications
+
+| Communications |  |
+|------------------------|-------------------------------------------------------------------|
+| Communication Platform | Communication channels related to the token. (For example, email) |
