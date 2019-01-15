@@ -132,7 +132,7 @@ Application and implementation of Token Fundamentals to ensure verification of a
 
 ### Legal Structure
 
-#### Per Entity Object
+#### Per Entity
 
 | Property | Description |
 |-----------------------|----------------------------------------|
@@ -150,3 +150,17 @@ Application and implementation of Token Fundamentals to ensure verification of a
 | Zipcode |  |
 | Company Registry | Links to commercial registry entries |
 | Attachments | Multiple documents pertaining to asset |
+
+### Reporting
+
+| Property | Description |
+|--------------------|----------------------|
+| Financials |  |
+| Financial Forecast | incl. Usage of Funds |
+| Valuation / NAV |  |
+| KPIs |  |
+
+## References
+
+|------|------------------------------------------------------------------------|
+| ITSA | https://drive.google.com/file/d/1H-driPAlyS6sb2OfgMRJJxJOFiMo_vcq/view |
