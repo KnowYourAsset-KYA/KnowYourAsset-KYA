@@ -77,3 +77,35 @@ Application and implementation of Token Fundamentals to ensure verification of a
 | Picture | URL of the location of the file |
 | Role / Responsibility |  |
 | Online Presence | Social and/or communication channels |
+
+### Allocation & Distribution
+
+#### Per Token Allocation
+
+| Property | Description |
+|------------------|---|
+| Name |  |
+| Start Date |  |
+| End Date |  |
+| Tokens Allocated |  |
+| Lock-up |  |
+
+#### Per Token Sale
+
+| Property | Description |
+|------------------------------|-----------------------------------------------------------|
+| Token Sale Contract |  |
+| Start Date |  |
+| End Date |  |
+| Accepted Currencies for Sale |  |
+| Base Currency | Currency in which to calculate the soft cap and hard cap. |
+| Soft Cap | Minimum fundraising amount required to issue tokens |
+| Hard Cap | Maximum fundraising amount |
+| Bonus |  |
+| Token Purchase Agreement |  |
+| Amount raised | Amount raised in base currency, |
+| Tokens sold |  |
+| Average Price |  |
+| Unsold Tokens |  |
+| Destination of Unsold Tokens | e.g. Added to Reserve, Burned |
+| Restrictions | e.g. Minium transaction size; 99 investors max from U.S. |
