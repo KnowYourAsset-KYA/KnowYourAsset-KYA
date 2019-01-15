@@ -12,8 +12,6 @@ Application and implementation of Token Fundamentals to ensure verification of a
 
 ## Token Metadata
 
-### Token Contract
-
 | Token Contract             |                                                                                                                     |
 |----------------------------|---------------------------------------------------------------------------------------------------------------------|
 | Blockchain                 | The native blockchain in which the originator contract resides                                                      |
