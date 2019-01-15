@@ -120,13 +120,33 @@ Application and implementation of Token Fundamentals to ensure verification of a
 | Time for debate |  |
 | Ballot history | URL to past decisions or voting app |
 
-### Legal
+### Regulatory
 
 | Property | Description |
-|-------------------------|----------------------------------------------------------------------------------------------------|
-| Prospectus | URL of the content or content hash |
-| Jurisdiction of Project | Country code |
-| Terms of Token Use | URL of the content or content hash |
-| Custodial Provider | Bridge traditional share certificates with smart contracts |
-| Fiat Provider | Must be willing to accept crypto-linked deposits, must have audit trail on all crypto transactions |
-| Escrow | An escrow provider will hold raised funds until a certain milestone is reached |
+|-----------------------------------|-------------------------------------------------------------------------------------|
+| Securities Exemptions | For example, Reg A+, Reg D 506c, Reg S |
+| Permitted or Restricted Countries | "For example, Reg. S U.S. restricts investors from trading for |
+| one year post STO." |  |
+| KYC / KYB / AML policies | (links) PEP, watchlists, sanctions, terrorism, match logic (2+2), GDPR |
+| Accredited Investors | U.S.  Reg. D, Reg. A+, Reg. CF, Canadian or other jurisdiction Accredited Investor. |
+
+### Legal Structure
+
+#### Per Entity Object
+
+| Property | Description |
+|-----------------------|----------------------------------------|
+| Name |  |
+| Legal Name |  |
+| Description |  |
+| Image |  |
+| Location[] |  |
+| Coordinates[Long,Lat] |  |
+| Country |  |
+| Region / State |  |
+| City |  |
+| Street Name |  |
+| Street Number |  |
+| Zipcode |  |
+| Company Registry | Links to commercial registry entries |
+| Attachments | Multiple documents pertaining to asset |
