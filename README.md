@@ -10,6 +10,9 @@ This document is a request for comment to identify, list and describe the proper
 
 Application and implementation of Token Fundamentals to ensure verification of authorship and data authenticity is a discussion separate to the development of the standard itself.
 
+## Contributions
+Pleasa refer to [contribution guidelines](contributing.md)
+
 ## Token Metadata
 
 ### Token Contract
