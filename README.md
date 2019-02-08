@@ -3,7 +3,9 @@
 Token Fundamentals is a collaborative multi-body industry initiative to provide a framework for the standardization and unification of token metadata. The objective of Token Fundamentals is to allow for greater interoperability  and compatibility of token metadata. Adoption of a standard can then lead to the development of tools and processes that build transparency, trust and accountability for stakeholders.
 
 The founding members of the Token Fundamentals Working Group are:
+
 Swarm
+
 Security Token Network
 
 This document is a request for comment to identify, list and describe the properties of a token’s metadata, categorized into logical divisions that may or may not be applicable to any specific token.
