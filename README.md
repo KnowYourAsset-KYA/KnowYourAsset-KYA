@@ -4,8 +4,8 @@ Token Fundamentals is a collaborative multi-body industry initiative to provide 
 
 The founding members of the Token Fundamentals Working Group are:
 
-Swarm
-Security Token Network
+* Swarm
+* Security Token Network
 
 ## Issues
 See [Issues](https://github.com/TokenFundamentalsWorkingGroup/TokenFundamentals/issues) for discussion of the specific topics:
