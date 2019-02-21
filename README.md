@@ -8,7 +8,7 @@ Swarm
 Security Token Network
 
 ## Issues
-See Issues for discussion of the specific topics:
+See [Issues](https://github.com/TokenFundamentalsWorkingGroup/TokenFundamentals/issues) for discussion of the specific topics:
 
 * identify the structure and categorization of token fundamentals
 * discuss the individual pieces data within each category
