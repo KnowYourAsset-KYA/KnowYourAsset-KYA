@@ -7,12 +7,15 @@ The founding members of the Token Fundamentals Working Group are:
 Swarm
 Security Token Network
 
-This repository is a request for comment to:
+## Issues
+See Issues for discussion of the specific topics:
+
 * identify the structure and categorization of token fundamentals
 * discuss the individual pieces data within each category
 * discuss how data is written to token fundamentals, by whom, and how data authenticity is established
 * discuss storage of and access to token fundamentals
-* discuss how a vouching protocl may function.
+* discuss how a vouching protocol may function.
+
 
 ## Contributions
 Pleasa refer to [contribution guidelines](CONTRIBUTING.md)
